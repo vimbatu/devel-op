@@ -1,4 +1,6 @@
 <?
 echo "Hello Git!";
 
-echo "Hello Again";
+echo "Hello Again"; 
+
+$var;
